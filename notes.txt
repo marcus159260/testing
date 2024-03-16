@@ -1,0 +1,2 @@
+getlocation.js
+- need to prompt for user to allow location everytime refresh page
